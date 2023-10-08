@@ -11,7 +11,7 @@ I work as the Director of Research for [LLEAD at the Innocence Project New Orlea
 | **Network Protocol Downgrade Detector** | Android app to identify network security shifts | Java, Android SDK | [View Repo](https://github.com/ayyubibrahimi/protocol-detection) |
 | **EOS** | Lead research for a New Orleans based coalition that works to end the use of surveillance technologies by law enforcement. | Python | [View Repo](https://github.com/ayyubibrahimi/eos) |
 
-**🖋 Blog Posts**:
+**Blog Posts**:
 - [COVID-19: An Opportune Moment for Jihadi Groups in the Central Sahel](https://encyclopediageopolitica.com/2020/06/21/covid-19-an-opportune-moment-for-jihadi-groups-in-the-central-sahel/)
 - [France and the new Francophone-Anglophone Divide In West Africa](https://encyclopediageopolitica.com/2020/11/06/france-and-the-new-francophone-anglophone-divide-in-west-africa/)
   - **Cited by:** Dirk Kohnert of GIGA - Hamburg, Institute of African Affairs in ["French Domination of Francophone African Markets: Post-Colonialism at its Finest?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4037625). 

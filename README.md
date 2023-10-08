@@ -14,7 +14,7 @@ I work as the Director of Research for [LLEAD at the Innocence Project New Orlea
 **🖋 Blog Posts**:
 - [COVID-19: AN OPPORTUNE MOMENT FOR JIHADI GROUPS IN THE CENTRAL SAHEL](https://encyclopediageopolitica.com/2020/06/21/covid-19-an-opportune-moment-for-jihadi-groups-in-the-central-sahel/)
 - [FRANCE AND THE NEW FRANCOPHONE-ANGLOPHONE DIVIDE IN WEST AFRICA](https://encyclopediageopolitica.com/2020/11/06/france-and-the-new-francophone-anglophone-divide-in-west-africa/)
- - 📚 Cited by: Dirk Kohnert in ["French Domination of Francophone African Markets: Post-Colonialism at its Finest?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4037625) from GIGA - Hamburg, Institute of African Affairs.
+  - **Cited by:** Dirk Kohnert. ["French Domination of Francophone African Markets: Post-Colonialism at its Finest?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4037625). GIGA - Hamburg, Institute of African Affairs.
  - [The First Step Act and Criminal Justice in the United States](https://worldjusticeproject.org/news/first-step-act-and-criminal-justice-united-states)
  - [What the Data Says About Judicial Independence and Fundamental Freedoms in Hungary](https://worldjusticeproject.org/news/what-data-says-about-judicial-independence-and-fundamental-freedoms-hungary)
   - [What the Data Says About the Status of Human Rights in 2018](https://worldjusticeproject.org/news/what-data-says-about-status-human-rights-2018)

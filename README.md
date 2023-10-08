@@ -12,7 +12,7 @@ I work as the Director of Research for [LLEAD at the Innocence Project New Orlea
 | **EOS** | Lead research for a New Orleans based coalition that works to end the use of surveillance technologies by law enforcement. | Python | [View Repo](https://github.com/ayyubibrahimi/eos) |
 
 **🖋 Blog Posts**:
-- [COVID-19: An opportune moment for Jihadi groups in the Central Sahel](https://encyclopediageopolitica.com/2020/06/21/covid-19-an-opportune-moment-for-jihadi-groups-in-the-central-sahel/)
+- [COVID-19: An Opportune Moment for Jihadi Groups in the Central Sahel](https://encyclopediageopolitica.com/2020/06/21/covid-19-an-opportune-moment-for-jihadi-groups-in-the-central-sahel/)
 - [France and the new Francophone-Anglophone Divide In West Africa](https://encyclopediageopolitica.com/2020/11/06/france-and-the-new-francophone-anglophone-divide-in-west-africa/)
   - **Cited by:** Dirk Kohnert of GIGA - Hamburg, Institute of African Affairs. ["French Domination of Francophone African Markets: Post-Colonialism at its Finest?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4037625). 
  - [The First Step Act and Criminal Justice in the United States](https://worldjusticeproject.org/news/first-step-act-and-criminal-justice-united-states)

@@ -7,7 +7,7 @@ I work as the Director of Research for LLEAD at the Innocence Project New Orlean
 
 👨‍💻 **Current Projects**:
 - **Louisiana Law Enforcement Accountability Database (LLEAD)**: Leading code/research development for LLEAD.co. [View Repo](https://github.com/ipno-llead/processing)
-- **Sawt**: Co-developing Sawt, a tool for New Orleanians to more easily find out what is being shared and discussed in City Council meetings. [View Repo][https://github.com/eye-on-surveillance/sawt]
+- **Sawt**: Co-developing Sawt, a tool for New Orleanians to more easily find out what is being shared and discussed in City Council meetings. [View Repo](https://github.com/eye-on-surveillance/sawt)
 
 
 <!--

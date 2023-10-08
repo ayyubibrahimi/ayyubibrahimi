@@ -8,6 +8,9 @@ I work as the Director of Research for LLEAD at the Innocence Project New Orlean
     - [View Repo](https://github.com/ipno-llead/processing)
 - **Sawt**: Co-developing Sawt, a tool for New Orleanians to more easily find out what is being shared and discussed in City Council meetings. 
     - [View Repo](https://github.com/eye-on-surveillance/sawt)
+- **Sawt**: Co-developing the Network Protocol Downgrade Detector, an Android application. Its primary objective is to assist users in identifying instances where their mobile devices shift from secure network protocols to less secure protocols.
+    - [View Repo](https://github.com/ayyubibrahimi/protocol-detection)
+
 
 
 <!--
